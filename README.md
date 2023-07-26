@@ -1,6 +1,6 @@
-# portfolio
-# template
-# brototype 
+# Portfolio
+# Template
+ 
 This is my portfolio model.
 
 you can use these as template.
